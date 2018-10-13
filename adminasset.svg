@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="256px" height="241px" viewBox="0 0 256 241" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="30px" height="16px" viewBox="0 0 30 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
-    <title>A</title>
+    <title>baseline-vpn_key-24px</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="512---Play-Store-Copy-8" transform="translate(0.000000, -8.000000)" fill="#353840">
-            <path d="M183,249 L170,210 L84,210 L71,249 L0,249 L95,8 L159,8 L256,249 L183,249 Z M154,158 L127,83 L101,158 L154,158 Z" id="A"></path>
+        <g id="Desktop-HD-Copy-2" transform="translate(-193.000000, -42.000000)">
+            <g id="baseline-vpn_key-24px" transform="translate(192.000000, 34.000000)">
+                <polygon id="Shape" points="0 0 32 0 32 32 0 32"></polygon>
+                <path d="M16.9303977,13.3333333 L30.75,13.3333333 L30.75,18.6666667 L28.0795455,18.6666667 L28.0795455,24 L22.7386364,24 L22.7386364,18.6666667 L16.9303977,18.6666667 C15.8355114,21.7733333 12.8713068,24 9.38636364,24 C4.96676136,24 1.375,20.4133333 1.375,16 C1.375,11.5866667 4.96676136,8 9.38636364,8 C12.8713068,8 15.8355114,10.2266667 16.9303977,13.3333333 Z M7.27905191,13.6483527 C7.27905191,13.6483527 5.24801783,15.7388935 5.38128249,16.4427096 C5.57563751,16.669965 7.63413158,18.875 9.01182877,18.875 C10.389526,18.875 10.389526,17.285367 10.389526,17.285367 C10.389526,17.285367 10.3303384,15.908501 11.059306,15.4195083 C11.7882737,14.9305156 13.5,15.198856 13.5,15.198856 C13.5,13.7278781 10.9742499,13.7278781 10.9742499,13.7278781 C10.9742499,13.7278781 10.1162886,12.9135874 9.01182877,13.0075483 C7.90736897,13.1015092 7.27905191,13.6483527 7.27905191,13.6483527 Z" id="Shape" fill="#292D35" fill-rule="nonzero"></path>
+            </g>
         </g>
     </g>
 </svg>
