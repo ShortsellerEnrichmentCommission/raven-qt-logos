@@ -1,4 +1,6 @@
-# Raven QT Logos
+# Example Comparison
+![Coins](https://github.com/ShortsellerEnrichmentCommission/raven-qt-logos/blob/master/coins_32.png)
+# Proposed Raven QT Logos
 ![About PNG](https://github.com/ShortsellerEnrichmentCommission/raven-qt-logos/blob/master/about.png)
 ![Admin Asset SVG](https://github.com/ShortsellerEnrichmentCommission/raven-qt-logos/blob/master/adminasset.svg)
 ![Asset Administrator PNG](https://github.com/ShortsellerEnrichmentCommission/raven-qt-logos/blob/master/asset_administrator.png)
